@@ -1,0 +1,15 @@
+{
+  "name": "My NFT",
+  "description": "A unique NFT minted on the Etherlink testnet",
+  "image": "ipfs://bafybeigxye2d56rb5rfzv7bybrwcxsxi4wau4khcba5tg6qj6gj55l3tca",
+  "attributes": [
+    {
+      "trait_type": "animal",
+      "value": "pig"
+    },
+    {
+      "trait_type": "fruit",
+      "value": "grapes"
+    }
+  ]
+}
