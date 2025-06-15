@@ -4,7 +4,7 @@ A simple NFT DApp built on Etherlink's testnet enabling users to mint, view, and
 
 ## Live Demo
 
-<https://etherlink-nft-dapp-mocha.vercel.app/>
+<https://etherlink-nft-dapp-ten.vercel.app/>
 
 ## Prerequisites
 
