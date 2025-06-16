@@ -23,7 +23,7 @@ npm install
 
 2. Deploy Smart Contract
 
-Navigate to the contracts folder:
+Navigate to the contracts folder & install dependencies:
 
 ```bash
 cd contracts
