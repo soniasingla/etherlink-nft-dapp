@@ -2,9 +2,12 @@
 
 A simple NFT DApp built on Etherlink's testnet enabling users to mint, view, and transfer ERC-721 tokens through a clean, intuitive interface.
 
+
+<img width="1439" alt="Screenshot 2025-06-16 at 09 03 53" src="https://github.com/user-attachments/assets/56ed5fbf-eb00-4366-8074-e8ad3264a119" />
+
 ## Live Demo
 
-<https://etherlink-nft-dapp-mocha.vercel.app/>
+<https://etherlink-nft-dapp-ten.vercel.app/>
 
 ## Prerequisites
 
@@ -23,7 +26,7 @@ npm install
 
 2. Deploy Smart Contract
 
-Navigate to the contracts folder:
+Navigate to the contracts folder & install dependencies:
 
 ```bash
 cd contracts
