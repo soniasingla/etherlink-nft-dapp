@@ -51,8 +51,8 @@ export default function Layout({ children }) {
                   chainId: '0x1F45B',
                   chainName: 'Etherlink Testnet',
                   nativeCurrency: {
-                    name: 'Tez',
-                    symbol: 'TEZ',
+                    name: 'XTZ',
+                    symbol: 'XTZ',
                     decimals: 18,
                   },
                   rpcUrls: ['https://node.ghostnet.etherlink.com'],

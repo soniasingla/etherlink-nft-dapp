@@ -67,10 +67,10 @@ Open <http://localhost:3000> in your browser.
 | Network Name    | Etherlink Testnet                                                                |
 | RPC URL         | [https://node.ghostnet.etherlink.com](https://node.ghostnet.etherlink.com)       |
 | Chain ID        | 128123                                                                           |
-| Currency Symbol | TEZ                                                                              |
+| Currency Symbol | XTZ                                                                              |
 | Block Explorer  | [https://testnet.explorer.etherlink.com](https://testnet.explorer.etherlink.com) |
 
-### Getting Testnet TEZ
+### Getting Testnet XTZ
 
 Use the [Etherlink Faucet](https://faucet.etherlink.com/) to request testnet tokens required for deploying contracts and sending transactions.
 
@@ -92,7 +92,7 @@ Your metadata JSON should look like this:
 - Click Mint NFT and confirm the transaction in your wallet.
 - Wait for confirmation; your NFT will then be minted to your wallet.
 
-> Note: Ensure you have testnet TEZ tokens for gas. Get tokens from [Etherlink Faucet](https://faucet.etherlink.com/).
+> Note: Ensure you have testnet XTZ tokens for gas. Get tokens from [Etherlink Faucet](https://faucet.etherlink.com/).
 
 ### View NFTs
 
@@ -113,6 +113,6 @@ Common Issues
 | Problem                            | Solution                                                                                              |
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | Compilation errors                 | Ensure Node.js v16+ installed. Delete `node_modules` and `package-lock.json`, then run `npm install`. |
-| Deployment fails                   | Check sufficient testnet TEZ balance; confirm private key in `hardhat.config.js` is correct.          |
+| Deployment fails                   | Check sufficient testnet XTZ balance; confirm private key in `hardhat.config.js` is correct.          |
 | Frontend can’t connect to contract | Verify contract address in `constants.js` and MetaMask network selection (Etherlink testnet).         |
 | NFT metadata not displaying        | Confirm metadata URL is public and JSON format is correct.                                            |
